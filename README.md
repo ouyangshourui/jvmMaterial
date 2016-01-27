@@ -5,6 +5,8 @@ java four reference: strong, soft, weak, phantom
 
 #java Timer
 
+<pre>
+<code>
 import java.util.{Timer, TimerTask}
 object TimerTest {
   def main(args: Array[String]) {
@@ -21,4 +23,5 @@ object TimerTest {
   }
 
 }
-
+</code>
+</pre>
